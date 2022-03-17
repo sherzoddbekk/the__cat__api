@@ -69,6 +69,7 @@ class DetailsActivity : AppCompatActivity() {
             }
         }
     }
+    //uchqunbek
 
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
